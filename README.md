@@ -1,4 +1,4 @@
-# 🤖 Bot de WhatsApp Business para Lavanderías
+# 🤖 Bot de WhatsApp Business para LavaPrenda
 
 ![Banner](https://via.placeholder.com/800x200?text=Lavanderia+WhatsApp+Bot)
 
