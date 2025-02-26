@@ -25,13 +25,12 @@ Un bot completo para la automatización de reservas, consultas y pagos para nego
 
 ## 🌟 Introducción
 
-Este proyecto proporciona una solución completa para implementar un bot de WhatsApp Business específicamente diseñado para negocios de lavandería y servicios de renta de lavadoras. El bot permite la automatización de procesos como consultas de precios, reservas de equipos y gestión de pagos, mejorando significativamente la experiencia del cliente y optimizando las operaciones del negocio.
+Este proyecto proporciona una solución completa para implementar un bot de WhatsApp Business específicamente diseñado para lavaPrenda. El bot permite la automatización de procesos como consultas de precios, reservas de equipos y gestión de pagos, mejorando significativamente la experiencia del cliente y optimizando las operaciones del negocio.
 
 ## ⚙️ Funcionalidades
 
 - **Respuestas automáticas a consultas frecuentes**
 - **Sistema de reservas de lavadoras**
-- **Procesamiento de pagos integrado con Stripe**
 - **Base de datos para seguimiento de clientes y reservas**
 - **Integración con IA (Dialogflow) para respuestas inteligentes**
 - **Panel de métricas para analizar el rendimiento**
@@ -41,7 +40,6 @@ Este proyecto proporciona una solución completa para implementar un bot de What
 - Cuenta de WhatsApp Business
 - Cuenta de Twilio
 - Python 3.10 o superior
-- Cuenta de Stripe (para procesamiento de pagos)
 - Cuenta de Heroku (para despliegue)
 
 ## 🔧 Instalación y Configuración
@@ -74,7 +72,7 @@ mi_bot/
 1. Descarga la app WhatsApp Business desde Google Play o App Store
 2. Regístrate con el número de teléfono de tu negocio
 3. Completa tu perfil:
-   - Nombre del negocio (Ej: "Lavandería Express")
+   - Nombre del negocio 
    - Dirección y horarios
    - Descripción del servicio
 
