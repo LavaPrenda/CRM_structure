@@ -1,6 +1,8 @@
 # 🤖 Bot de WhatsApp Business para LavaPrenda
 
-![Banner](https://via.placeholder.com/800x200?text=Lavanderia+WhatsApp+Bot)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LavaPrenda/CRM_structure/main/Stock/lavaprenda_typo_logo_nobg.png" alt="LavaPrenda Logo" width="600">
+</p>
 
 Un bot completo para la automatización de reservas, consultas y pagos para negocios de lavandería y renta de lavadoras. Optimiza tus operaciones y mejora la experiencia de tus clientes.
 
