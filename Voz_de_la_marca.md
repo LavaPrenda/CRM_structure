@@ -39,8 +39,8 @@ Definir la personalidad, tono y estilo comunicativo de Lavaprenda para garantiza
 ---
 
 ### WhatsApp Business Description (500 caracteres)
-```markdown
-🚀 *¡Hola! Soy María de Lavaprenda* 🧺  
+
+🚀 **¡Hola! Soy María de Lavaprenda** 🧺  
 
 ¿Cansado de perder horas lavando? ¡Nosotros lo hacemos por ti!  
 
@@ -49,7 +49,7 @@ Definir la personalidad, tono y estilo comunicativo de Lavaprenda para garantiza
 - 🚚 *Entrega gratis* en 24 horas  
 - 💼 Planchado experto de trajes  
 
-📲 *Cómo funciona*:  
+📲 **Cómo funciona**:  
 1️⃣ Envíanos tu ubicación  
 2️⃣ Recogemos tu ropa *GRATIS*  
 3️⃣ ¡Disfruta de tu día libre!  
@@ -59,47 +59,58 @@ Definir la personalidad, tono y estilo comunicativo de Lavaprenda para garantiza
 
 ⏰ Horario: Lunes a Sábado 7am - 7pm  
 📍 *Centro Central de La Grita*
-🎨 Lineamientos Visuales para Redes
-Elemento	Instagram	WhatsApp
-Emojis	🧺🚀💧✨🔥	✅📲🚚💼🎁
-Formato	Líneas breves + bullets	Párrafos cortos + negritas
-Call to Action	"Reserva ahora ⬇️"	"Presiona EMPEZAR ▶️"
-Hashtags	Máx. 3 por publicación	No usar
-🚨 Palabras Clave Obligatorias
-Agua, Jabón, y Acción (en cada publicación destacada)
 
-Entrega GRATIS
+---
 
-Detergente INCLUIDO
+## 🎨 Lineamientos Visuales para Redes
 
-Profesional/Expertos
+| Elemento | Instagram | WhatsApp |
+|----------|-----------|----------|
+| **Emojis** | 🧺🚀💧✨🔥✅📲🚚💼🎁 | 🧺🚀💧✨🔥✅📲🚚💼🎁 |
+| **Formato** | Líneas breves + bullets | Párrafos cortos + negritas |
+| **Call to Action** | "Reserva ahora ⬇️" | "Presiona EMPEZAR ▶️" |
+| **Hashtags** | Máx. 3 por publicación | No usar |
 
-Ropa como nueva
+---
 
-❌ Prohibiciones de Comunicación
-Emojis excesivos (❗😅🙏❤️🔥)
+## 🚨 Palabras Clave Obligatorias
 
-Jergas locales informales ("chévere", "pana")
+1. **Agua, Jabón, y Acción** (en cada publicación destacada)
+2. Entrega GRATIS
+3. Detergente INCLUIDO
+4. Profesional/Expertos
+5. Ropa como nueva
 
-Promesas imposibles ("Lavado en 5 minutos")
+---
 
-Comparaciones directas con competidores
+## ❌ Prohibiciones de Comunicación
 
-📅 Ejemplo de Post para Instagram
-Caption:
+* Emojis excesivos (❗😅🙏❤️🔥)
+* Jergas locales informales ("chévere", "pana")
+* Promesas imposibles ("Lavado en 5 minutos")
+* Comparaciones directas con competidores
+
+---
+
+## 📅 Ejemplo de Post para Instagram
+
+**Caption**: 
+```
 🧼✨ ¿Sabías que el 70% del deterioro de la ropa viene de un lavado incorrecto?
 
-`En Lavaprenda usamos tecnología Aqua-Care que:
+En Lavaprenda usamos tecnología **Aqua-Care** que:
 ✅ Preserva colores
 ✅ Elimina 99.9% de bacterias
 ✅ Cuida tejidos delicados
 
-📦 ¡Y lo llevamos a tu casa GRATIS!
-👉 Reserva hoy y obtén un kit de emergencia 🎁 (toalla + jabón líquido)
+📦 ¡Y lo llevamos a tu casa *GRATIS*!
+👉 Reserva hoy y obtén un **kit de emergencia** 🎁 (toalla + jabón líquido)
 
-#LavadoInteligente #LavaprendaAcción`
+#LavadoInteligente #LavaprendaAcción
+```
 
-✨ Documento versión 1.1 - Actualizado: 27 Feb 2025
-📧 Consultas: lavaprenda.oficial@gmail.com
-🔐 Confidencialidad: Uso exclusivo Lavaprenda
+---
 
+✨ *Documento versión 1.1 - Actualizado: 27 Feb 2025*  
+📧 *Consultas: lavaprenda.oficial@gmail.com*  
+🔐 *Confidencialidad: Uso exclusivo Lavaprenda*
